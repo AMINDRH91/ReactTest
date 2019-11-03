@@ -5,14 +5,18 @@ This project was test project.
 
 In the project directory, you can run:
 
+
+(First)
+For install dependecies of the project
 ### `npm install`
 
-For install dependecies of the project
 
+(Second )
+Runs backend: open terminal  directory project and run Bottom code
 ### `npm start`
 
-Runs backend in the development mode
-
+(Third)
+Runs Front : open new  terminal  directory project and run Bottom code
 ### `npm run start-front`
 
-Runs the app in the development mode.<br />
+.<br />
