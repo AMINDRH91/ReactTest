@@ -5,18 +5,12 @@ This project was test project.
 
 In the project directory, you can run:
 
-
-(First)
-For install dependecies of the project
 ### `npm install`
 
+For install dependecies of the project
 
-(Second )
-Runs backend: open terminal  directory project and run Bottom code
-### `npm start`
+### Run `npm start`
 
-(Third)
-Runs Front : open new  terminal  directory project and run Bottom code
-### `npm run start-front`
+First you should Run backend in the development mode with execute this command => `npm start`
 
-.<br />
+your front page is on http://localhost:3001
